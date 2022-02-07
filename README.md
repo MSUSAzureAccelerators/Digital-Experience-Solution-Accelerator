@@ -8,13 +8,8 @@ Delivery of compelling digital experiences has become a key marketing strategy a
 The Live Events Solution Accelerator brings together proven technology from partners MediaKind, Evertz Microsystems, and Lumen in a scalable on-demand service that moves the entire live stream process offsite and into the cloud, enabling remote teams to work together in real-time.
 
 
-## Getting Started 
-Start by deploying the resources needed for this solution: 
-
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](path_to_azuredeploy.json)
-
-1. Clone this repository and navigate to the root of the directory  
-2. Go to the [Deployment Guide](./DEPLOY.md) for the steps you need to take to deploy this solution 
+## Architecture 
+![Live Events Solution Accelerator Architecture](./images/Live%20Events%20Architecture.png)
 
 ## Prerequisites
 In order to successfully complete your solution, you will need to have access to and or provisioned the following:
