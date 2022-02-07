@@ -1,7 +1,11 @@
 ![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.jpg)
 
+# Live Events Solution Accelerator
+
 ## About this repository
-This accelerator was built to provide developers with all of the resources needed to build a solution to....
+Delivery of compelling digital experiences has become a key marketing strategy and a natural extension of live events. Complexity and costs are a barrier to entry for many however, and a lack of real-time data and audience insights for optimizing content can make it difficult to grow brand affinity and achieve real ROI.
+
+The Live Events Solution Accelerator brings together proven technology from partners MediaKind, Evertz Microsystems, and Lumen in a scalable on-demand service that moves the entire live stream process offsite and into the cloud, enabling remote teams to work together in real-time.
 
 
 ## Getting Started 
