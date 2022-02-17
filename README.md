@@ -7,29 +7,8 @@ Delivery of compelling digital experiences has become a key marketing strategy a
 
 The Live Events Solution Accelerator brings together proven technology from partners MediaKind, Evertz Microsystems, and Lumen in a scalable on-demand service that moves the entire live stream process offsite and into the cloud, enabling remote teams to work together in real-time.
 
-
 ## Architecture 
 ![Live Events Solution Accelerator Architecture](./images/Live%20Events%20Architecture.png)
-
-## Prerequisites
-In order to successfully complete your solution, you will need to have access to and or provisioned the following:
-1. item 1
-2. item 2
-3. item 3
-
-### Optional
-1. item 1
-
-## Azure Platform
-The directions provided for this repository assume fundemental working knowledge of ...
-
-For additional training and support, please see:
- 1. item 1
- 2. item 2
- 3. item 3
-
-## Process Overview  
-
 
 ## License
 Copyright (c) Microsoft Corporation
