@@ -8,7 +8,7 @@ Delivery of compelling digital experiences has become a key marketing strategy a
 The Digital Experience Solution brings together proven technology from partners MediaKind, Evertz Microsystems, and Lumen in a scalable on-demand service that moves the entire live stream process offsite and into the cloud, enabling remote teams to work together in real-time.
 
 ## Architecture 
-![Digital Experience Solution Accelerator Architecture](./Digital%20Experience%20Solution%20Architecture.png)
+![Digital Experience Solution Accelerator Architecture](./images/Digital%20Experience%20Solution%20Architecture.png)
 
 ## License
 Copyright (c) Microsoft Corporation
