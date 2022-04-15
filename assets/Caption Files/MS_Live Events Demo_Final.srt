@@ -1,0 +1,1267 @@
+﻿1
+00:00:05,338 --> 00:00:07,716
+- Hi, I'm Kelly with Microsoft.
+
+2
+00:00:07,716 --> 00:00:09,509
+And today we are broadcasting live
+
+3
+00:00:09,509 --> 00:00:11,678
+from the United Kingdom's RC Racetrack
+
+4
+00:00:11,678 --> 00:00:13,596
+to our global audience.
+
+5
+00:00:13,596 --> 00:00:16,891
+Creating compelling live events may appear simple
+
+6
+00:00:16,891 --> 00:00:18,810
+but production teams know all too well
+
+7
+00:00:18,810 --> 00:00:21,980
+the complexities in delivering these experiences.
+
+8
+00:00:21,980 --> 00:00:24,441
+Integrating and operating technical systems,
+
+9
+00:00:24,441 --> 00:00:26,985
+applications, networks, and onsite personnel
+
+10
+00:00:26,985 --> 00:00:30,321
+can be daunting as well as costly and time consuming.
+
+11
+00:00:30,321 --> 00:00:32,699
+Microsoft's digital experience solution
+
+12
+00:00:32,699 --> 00:00:34,993
+helps to simplify the delivery of live events
+
+13
+00:00:34,993 --> 00:00:36,745
+by removing these complexities
+
+14
+00:00:36,745 --> 00:00:39,914
+while also reducing required onsite personnel.
+
+15
+00:00:39,914 --> 00:00:42,834
+Microsoft has partnered with industry leading vendors,
+
+16
+00:00:42,834 --> 00:00:45,503
+Evertz, MediaKind and Lumen
+
+17
+00:00:45,503 --> 00:00:48,465
+to provide a pre-integrated global solution
+
+18
+00:00:48,465 --> 00:00:51,301
+that scales for events of any size.
+
+19
+00:00:51,301 --> 00:00:54,429
+The live events process consists of five phases.
+
+20
+00:00:54,429 --> 00:00:59,267
+Ingest, produce, prepare, distribute, and experience.
+
+21
+00:00:59,267 --> 00:01:00,935
+These phases span the workflow
+
+22
+00:01:00,935 --> 00:01:02,771
+from the point of media acquisition
+
+23
+00:01:02,771 --> 00:01:06,149
+to the in consumer experience on a consumer device.
+
+24
+00:01:06,149 --> 00:01:07,984
+Each partner plays an important role
+
+25
+00:01:07,984 --> 00:01:10,236
+in delivering the live event.
+
+26
+00:01:10,236 --> 00:01:13,073
+This solution also spans multiple locations,
+
+27
+00:01:13,073 --> 00:01:15,075
+both geographical and virtual,
+
+28
+00:01:15,075 --> 00:01:17,869
+from the racetrack to Microsoft's Azure cloud,
+
+29
+00:01:17,869 --> 00:01:19,829
+to the consumer's device.
+
+30
+00:01:19,829 --> 00:01:21,790
+The workflow commences with MediaKind
+
+31
+00:01:21,790 --> 00:01:25,376
+acquiring and encoding media from the event location.
+
+32
+00:01:25,376 --> 00:01:26,628
+The media is then delivered
+
+33
+00:01:26,628 --> 00:01:28,338
+across a Lumen contribution network
+
+34
+00:01:28,338 --> 00:01:31,800
+to Evertz's Bravo studio running in Azure.
+
+35
+00:01:31,800 --> 00:01:33,968
+From there, the raw feeds are mixed together
+
+36
+00:01:33,968 --> 00:01:35,470
+and the produced output streams
+
+37
+00:01:35,470 --> 00:01:38,098
+are pushed to MediaKind's Aquila platform,
+
+38
+00:01:38,098 --> 00:01:39,849
+where they are processed and prepared
+
+39
+00:01:39,849 --> 00:01:41,226
+for consumer consumption.
+
+40
+00:01:42,185 --> 00:01:44,687
+The prepared streams are subsequently delivered
+
+41
+00:01:44,687 --> 00:01:46,856
+across Lumens content delivery network
+
+42
+00:01:46,856 --> 00:01:49,067
+to the consumer device of choice.
+
+43
+00:01:49,067 --> 00:01:50,485
+Let's break the solution down,
+
+44
+00:01:50,485 --> 00:01:51,569
+beginning with Evertz.
+
+45
+00:01:52,570 --> 00:01:55,156
+Evertz Bravo Studio is a cloud first
+
+46
+00:01:55,156 --> 00:01:56,574
+virtual production platform
+
+47
+00:01:56,574 --> 00:01:59,369
+serving as a production studio for our live events.
+
+48
+00:01:59,369 --> 00:02:00,787
+Residing in the Azure cloud,
+
+49
+00:02:00,787 --> 00:02:02,831
+Bravo Studio is a collection of resources
+
+50
+00:02:02,831 --> 00:02:05,625
+you can find in traditional production workflows.
+
+51
+00:02:05,625 --> 00:02:07,502
+Its simple, intuitive interface
+
+52
+00:02:07,502 --> 00:02:11,631
+can be used by any production to collaborate from anywhere.
+
+53
+00:02:11,631 --> 00:02:13,925
+Bravo Studios mixes together raw feeds
+
+54
+00:02:13,925 --> 00:02:17,011
+as well as additional content to create a produced stream
+
+55
+00:02:17,011 --> 00:02:18,304
+for the intended audience.
+
+56
+00:02:19,180 --> 00:02:22,475
+Let's get back to the track and see Bravo Studio in action.
+
+57
+00:02:22,475 --> 00:02:24,811
+We have six sources of raw media
+
+58
+00:02:24,811 --> 00:02:27,814
+and the output for the produced stream displayed.
+
+59
+00:02:27,814 --> 00:02:31,276
+The sources are comprised of four camera feeds at the track,
+
+60
+00:02:31,276 --> 00:02:34,320
+our announcer, who is offsite using Microsoft Teams,
+
+61
+00:02:34,320 --> 00:02:36,114
+and a graphics club.
+
+62
+00:02:36,114 --> 00:02:38,324
+Through this interface, we can select any source,
+
+63
+00:02:38,324 --> 00:02:40,201
+preview it, take a transition
+
+64
+00:02:40,201 --> 00:02:42,203
+and output the result to air.
+
+65
+00:02:42,203 --> 00:02:44,664
+Watch as we easily switch between the different angles
+
+66
+00:02:44,664 --> 00:02:45,540
+at the track.
+
+67
+00:02:46,499 --> 00:02:48,918
+We can also switch audio and overlays here.
+
+68
+00:02:48,918 --> 00:02:50,753
+We overlay our announcers audio
+
+69
+00:02:50,753 --> 00:02:54,507
+onto the races video feeds to deliver the commentary.
+
+70
+00:02:54,507 --> 00:02:56,426
+Audio of course requires the ability
+
+71
+00:02:56,426 --> 00:02:58,761
+to manipulate the audio levels.
+
+72
+00:02:58,761 --> 00:03:01,014
+Here have an audio mixer which allows us
+
+73
+00:03:01,014 --> 00:03:02,807
+to alter the announcer's voice
+
+74
+00:03:02,807 --> 00:03:04,684
+as well as audio coming from the track
+
+75
+00:03:04,684 --> 00:03:07,812
+to create a pleasing experience for the viewer.
+
+76
+00:03:07,812 --> 00:03:08,813
+With Bravo Studio,
+
+77
+00:03:08,813 --> 00:03:11,441
+we can spruce up our production with graphics.
+
+78
+00:03:11,441 --> 00:03:12,275
+In this case,
+
+79
+00:03:12,275 --> 00:03:15,153
+we can use a transition to return to the action.
+
+80
+00:03:15,153 --> 00:03:16,946
+Bravo studio uses co-pilots
+
+81
+00:03:16,946 --> 00:03:19,908
+to simplify the production workflow for the operators.
+
+82
+00:03:19,908 --> 00:03:23,453
+We have created a storyboard comprised of three components,
+
+83
+00:03:23,453 --> 00:03:26,581
+the graphic, transition, and ultimately the camera angle
+
+84
+00:03:26,581 --> 00:03:28,875
+we wish to use upon completion of the segment
+
+85
+00:03:28,875 --> 00:03:30,418
+in the rundown.
+
+86
+00:03:30,418 --> 00:03:33,129
+Let's take this to air and we'll see the graphics countdown
+
+87
+00:03:33,129 --> 00:03:35,715
+followed by the transition and the live camera feed.
+
+88
+00:03:36,716 --> 00:03:37,800
+In this demonstration,
+
+89
+00:03:37,800 --> 00:03:39,385
+we've shown several of Bravo Studio's
+
+90
+00:03:39,385 --> 00:03:40,637
+virtual production capabilities
+
+91
+00:03:40,637 --> 00:03:44,140
+that result in a stream ready for distribution.
+
+92
+00:03:44,140 --> 00:03:46,643
+This stream can be sent either to MediaKind
+
+93
+00:03:46,643 --> 00:03:49,771
+for distribution to our consumer's favorite digital device,
+
+94
+00:03:49,771 --> 00:03:51,856
+or to a Microsoft Teams live event
+
+95
+00:03:51,856 --> 00:03:53,983
+where you may want to support a watch party
+
+96
+00:03:53,983 --> 00:03:57,028
+or include it in a meeting or presentation.
+
+97
+00:03:57,028 --> 00:04:00,573
+MediaKind's Aquila is a cloud native broadcast quality
+
+98
+00:04:00,573 --> 00:04:03,576
+OTT streaming as a service platform.
+
+99
+00:04:03,576 --> 00:04:06,454
+It provides content processing, streaming services,
+
+100
+00:04:06,454 --> 00:04:09,040
+and enables media monetization.
+
+101
+00:04:09,040 --> 00:04:12,335
+This robust service is built on Microsoft's Azure cloud
+
+102
+00:04:12,335 --> 00:04:15,088
+and simplifies the configuration and integration
+
+103
+00:04:15,088 --> 00:04:17,590
+associated with media processing and streaming.
+
+104
+00:04:18,466 --> 00:04:21,636
+It also dynamically allocates and scales resources
+
+105
+00:04:21,636 --> 00:04:23,554
+depending on the workload,
+
+106
+00:04:23,554 --> 00:04:27,058
+allowing for cost optimizations across both Aquila software
+
+107
+00:04:27,058 --> 00:04:29,143
+and the infrastructure it resides within.
+
+108
+00:04:30,228 --> 00:04:32,647
+Aquila can be deployed in any Azure region,
+
+109
+00:04:32,647 --> 00:04:36,025
+providing the services you need where you need them.
+
+110
+00:04:36,025 --> 00:04:39,195
+Lastly, MediaKind's technology can reduce network bandwidth,
+
+111
+00:04:39,195 --> 00:04:43,116
+player latency, and content delivery network file caching,
+
+112
+00:04:43,116 --> 00:04:45,451
+thereby improving the consumer's experience
+
+113
+00:04:45,451 --> 00:04:47,412
+and lowering your operating cost.
+
+114
+00:04:48,579 --> 00:04:50,623
+Let's use Aquila to create a channel
+
+115
+00:04:50,623 --> 00:04:52,166
+for our racetrack event.
+
+116
+00:04:52,166 --> 00:04:53,501
+Starting with a homepage,
+
+117
+00:04:53,501 --> 00:04:55,253
+we see a list of the streaming channels
+
+118
+00:04:55,253 --> 00:04:58,673
+representing our racetrack camera angles already running.
+
+119
+00:04:58,673 --> 00:05:01,509
+The green check mark indicates the channel is running
+
+120
+00:05:01,509 --> 00:05:03,636
+and there are no alarms.
+
+121
+00:05:03,636 --> 00:05:05,847
+For each channel, you can see the templates,
+
+122
+00:05:05,847 --> 00:05:08,808
+source, and Azure region being used.
+
+123
+00:05:08,808 --> 00:05:10,893
+To create our produced stream,
+
+124
+00:05:10,893 --> 00:05:13,938
+we must first create a source and then a channel.
+
+125
+00:05:13,938 --> 00:05:15,231
+From the source screen,
+
+126
+00:05:15,231 --> 00:05:18,693
+we define a name, input mode, and Azure region
+
+127
+00:05:18,693 --> 00:05:20,236
+where the source will reside,
+
+128
+00:05:20,236 --> 00:05:22,405
+and then click add new.
+
+129
+00:05:22,405 --> 00:05:23,698
+Once the source is created,
+
+130
+00:05:23,698 --> 00:05:26,617
+the IP address and port information are available.
+
+131
+00:05:26,617 --> 00:05:28,619
+These will be used by Bravo Studio
+
+132
+00:05:28,619 --> 00:05:30,246
+to send the produced stream
+
+133
+00:05:30,246 --> 00:05:33,124
+into the appropriate MediaKind source.
+
+134
+00:05:33,124 --> 00:05:35,585
+Next, let's create a channel.
+
+135
+00:05:35,585 --> 00:05:36,919
+From the create channel screen,
+
+136
+00:05:36,919 --> 00:05:38,546
+we define a new channel name
+
+137
+00:05:38,546 --> 00:05:40,715
+and select the source we just created.
+
+138
+00:05:40,715 --> 00:05:42,300
+We then select a template
+
+139
+00:05:42,300 --> 00:05:45,678
+from the desired preset channel configuration.
+
+140
+00:05:45,678 --> 00:05:48,681
+In this case, we opt for a standard template.
+
+141
+00:05:48,681 --> 00:05:51,100
+Templates make it easy to spin up multiple channels
+
+142
+00:05:51,100 --> 00:05:52,435
+with the same configuration
+
+143
+00:05:52,435 --> 00:05:55,146
+by predefining the channel's attributes.
+
+144
+00:05:55,146 --> 00:05:57,690
+A default set of templates is included
+
+145
+00:05:57,690 --> 00:05:59,192
+and additional customized templates
+
+146
+00:05:59,192 --> 00:06:01,152
+can be easily added by the customer.
+
+147
+00:06:02,362 --> 00:06:03,946
+Although we've created our channel,
+
+148
+00:06:03,946 --> 00:06:05,031
+nothing has been provisioned
+
+149
+00:06:05,031 --> 00:06:07,408
+within the Azure environment yet.
+
+150
+00:06:07,408 --> 00:06:08,534
+To provision the channel,
+
+151
+00:06:08,534 --> 00:06:12,038
+the activate or play button is selected,
+
+152
+00:06:12,038 --> 00:06:14,874
+and the necessary services are deployed into Azure
+
+153
+00:06:14,874 --> 00:06:17,418
+where they are configured based on our template.
+
+154
+00:06:17,418 --> 00:06:19,754
+The entire process is fully automated,
+
+155
+00:06:19,754 --> 00:06:23,132
+and once complete the URLs for the adaptive bit rate streams
+
+156
+00:06:23,132 --> 00:06:24,425
+are available.
+
+157
+00:06:24,425 --> 00:06:27,553
+Here we see our channel stream and corresponding URL.
+
+158
+00:06:29,097 --> 00:06:32,809
+Aquila also supports dynamic ad insertion and blackouts.
+
+159
+00:06:32,809 --> 00:06:35,311
+Let's demonstrate this manually using this view
+
+160
+00:06:35,311 --> 00:06:38,356
+where we see multiple streams of the produced content.
+
+161
+00:06:38,356 --> 00:06:40,358
+The largest window in the top left corner
+
+162
+00:06:40,358 --> 00:06:42,819
+is showing the video being pulled from the origin,
+
+163
+00:06:42,819 --> 00:06:44,737
+bypassing the personalization service
+
+164
+00:06:44,737 --> 00:06:47,490
+that's used for ad insertion and blackouts.
+
+165
+00:06:47,490 --> 00:06:49,158
+The six streams on the bottom
+
+166
+00:06:49,158 --> 00:06:51,911
+are all coming from the personalization service,
+
+167
+00:06:51,911 --> 00:06:54,372
+each representing an audience that is being targeted
+
+168
+00:06:54,372 --> 00:06:58,418
+or blacked out based on geographic region and interest.
+
+169
+00:06:58,418 --> 00:07:00,086
+By clicking the ad button,
+
+170
+00:07:00,086 --> 00:07:02,755
+we instruct the platform to insert an ad signal
+
+171
+00:07:02,755 --> 00:07:04,799
+into the stream in real time,
+
+172
+00:07:04,799 --> 00:07:06,717
+indicating the start of an ad break
+
+173
+00:07:06,717 --> 00:07:09,220
+with a duration of 10 seconds.
+
+174
+00:07:09,220 --> 00:07:11,764
+Each audience will receive a different ad
+
+175
+00:07:11,764 --> 00:07:14,267
+determined by the ad decisioning server
+
+176
+00:07:14,267 --> 00:07:16,727
+based on their location and interest.
+
+177
+00:07:16,727 --> 00:07:18,938
+Some content licensing will require blackouts
+
+178
+00:07:18,938 --> 00:07:21,274
+to be enforced for a portion of the audience.
+
+179
+00:07:21,274 --> 00:07:23,818
+In our case, it's based on geography.
+
+180
+00:07:23,818 --> 00:07:25,069
+Clicking on the blackout button
+
+181
+00:07:25,069 --> 00:07:27,822
+instruct the platform to insert a different signal
+
+182
+00:07:27,822 --> 00:07:28,948
+into the stream,
+
+183
+00:07:28,948 --> 00:07:31,576
+indicating the start of the program to be blacked out.
+
+184
+00:07:31,576 --> 00:07:32,910
+For a demonstration,
+
+185
+00:07:32,910 --> 00:07:35,204
+our blackout has a duration of 10 seconds
+
+186
+00:07:35,204 --> 00:07:37,707
+and as being applied to the Florida zone one region.
+
+187
+00:07:37,707 --> 00:07:40,710
+So all viewers in that region will get the same slate
+
+188
+00:07:40,710 --> 00:07:42,962
+indicating their region is blacked out.
+
+189
+00:07:42,962 --> 00:07:44,046
+The rest of our audience
+
+190
+00:07:44,046 --> 00:07:46,340
+will continue to receive our racetrack event.
+
+191
+00:07:47,758 --> 00:07:50,970
+We now have a produced stream ready for distribution
+
+192
+00:07:50,970 --> 00:07:52,388
+across a global audience
+
+193
+00:07:52,388 --> 00:07:54,682
+with personalized ads inserted
+
+194
+00:07:54,682 --> 00:07:57,310
+and geographic blackouts enforced.
+
+195
+00:07:57,310 --> 00:07:58,728
+- As we mentioned earlier,
+
+196
+00:07:58,728 --> 00:08:00,813
+this is a a geographically dispersed production
+
+197
+00:08:00,813 --> 00:08:04,775
+that includes an event location, Microsoft's Azure cloud,
+
+198
+00:08:04,775 --> 00:08:07,153
+and audience members around the globe.
+
+199
+00:08:07,153 --> 00:08:10,281
+Broadcasts of this type require low latency networks
+
+200
+00:08:10,281 --> 00:08:13,784
+to deliver the signal across many discreet locations.
+
+201
+00:08:13,784 --> 00:08:14,827
+For our car race,
+
+202
+00:08:14,827 --> 00:08:17,413
+Lumen provides the signal acquisition network Vyvx
+
+203
+00:08:17,413 --> 00:08:19,499
+for contribution from the event location
+
+204
+00:08:19,499 --> 00:08:21,292
+to Microsoft's Azure cloud,
+
+205
+00:08:21,292 --> 00:08:23,085
+as well as the content delivery network
+
+206
+00:08:23,085 --> 00:08:25,630
+from Microsoft's cloud to the audience.
+
+207
+00:08:25,630 --> 00:08:27,173
+The network is designed to deliver
+
+208
+00:08:27,173 --> 00:08:29,467
+reliable low latency connectivity
+
+209
+00:08:29,467 --> 00:08:31,677
+to help ensure the timely delivery of media
+
+210
+00:08:31,677 --> 00:08:34,430
+across the camera to consumption workflow.
+
+211
+00:08:35,598 --> 00:08:38,851
+Lumen's Vyvx Venue Net is installed on premises
+
+212
+00:08:38,851 --> 00:08:42,230
+at over 240 stadiums and event venues today.
+
+213
+00:08:42,230 --> 00:08:44,690
+It includes dedicated encoding equipment
+
+214
+00:08:44,690 --> 00:08:46,943
+and managed video network services
+
+215
+00:08:46,943 --> 00:08:50,279
+with high capacity fiber connections to the Lumen backbone.
+
+216
+00:08:50,279 --> 00:08:54,033
+Vyvx offers white glove fully managed services
+
+217
+00:08:54,033 --> 00:08:55,993
+for high profile events worldwide,
+
+218
+00:08:55,993 --> 00:08:58,246
+with zero tolerance for failure.
+
+219
+00:08:58,246 --> 00:09:00,915
+The service includes 24/7 booking,
+
+220
+00:09:00,915 --> 00:09:02,625
+a customer care center,
+
+221
+00:09:02,625 --> 00:09:03,834
+and self-service portals
+
+222
+00:09:03,834 --> 00:09:07,672
+to support video delivery anytime and virtually anywhere.
+
+223
+00:09:08,589 --> 00:09:11,509
+Lumen's content distribution flow begins in the Azure cloud
+
+224
+00:09:11,509 --> 00:09:12,426
+where the produced streams
+
+225
+00:09:12,426 --> 00:09:15,137
+can be distributed to multiple types of outlets.
+
+226
+00:09:15,137 --> 00:09:16,973
+Distribution to television outlets
+
+227
+00:09:16,973 --> 00:09:19,058
+and multi value programming distributors
+
+228
+00:09:19,058 --> 00:09:21,852
+typically leverages either the Vyvx fiber network
+
+229
+00:09:21,852 --> 00:09:24,105
+or teleport services
+
+230
+00:09:24,105 --> 00:09:25,731
+which are used to reach outlets
+
+231
+00:09:25,731 --> 00:09:28,234
+not on the Vyvx fiber network.
+
+232
+00:09:28,234 --> 00:09:30,278
+Alternatively, the Lumen CDN
+
+233
+00:09:30,278 --> 00:09:33,406
+provides OTT streaming capabilities to online viewers
+
+234
+00:09:33,406 --> 00:09:36,367
+leveraging Lumen's global IP network backbone
+
+235
+00:09:36,367 --> 00:09:38,786
+and strong ISP peering relationships
+
+236
+00:09:38,786 --> 00:09:41,956
+to deliver best in class streaming experiences.
+
+237
+00:09:41,956 --> 00:09:43,916
+One of the largest CDNs in the world,
+
+238
+00:09:43,916 --> 00:09:45,668
+the Lumen content delivery network,
+
+239
+00:09:45,668 --> 00:09:50,131
+is globally architect for high availability and low latency.
+
+240
+00:09:50,131 --> 00:09:51,549
+Its security features include
+
+241
+00:09:51,549 --> 00:09:53,509
+encrypted delivery over the network
+
+242
+00:09:53,509 --> 00:09:56,929
+and active monitoring to mitigate security threats.
+
+243
+00:09:56,929 --> 00:09:59,849
+Additionally, the Lumen CDN can be augmented
+
+244
+00:09:59,849 --> 00:10:01,767
+with their peer assisted mesh delivery
+
+245
+00:10:01,767 --> 00:10:03,644
+to enhance quality of service,
+
+246
+00:10:03,644 --> 00:10:04,729
+increase reach,
+
+247
+00:10:04,729 --> 00:10:07,648
+and enable reliable scaling for flash crowds
+
+248
+00:10:07,648 --> 00:10:09,775
+during high traffic events.
+
+249
+00:10:09,775 --> 00:10:12,278
+- Microsoft's Azure cloud is the public cloud
+
+250
+00:10:12,278 --> 00:10:15,656
+providing the compute, storage, networking and data
+
+251
+00:10:15,656 --> 00:10:17,658
+to power the solution.
+
+252
+00:10:17,658 --> 00:10:20,911
+Azure enables producers to dynamically stand up their events
+
+253
+00:10:20,911 --> 00:10:22,830
+where, and when they need them.
+
+254
+00:10:22,830 --> 00:10:24,915
+It has the largest geographical footprint
+
+255
+00:10:24,915 --> 00:10:26,876
+of any cloud provider today,
+
+256
+00:10:26,876 --> 00:10:30,171
+with over 60 regions, 200 data centers,
+
+257
+00:10:30,171 --> 00:10:33,424
+and 4 million servers worldwide.
+
+258
+00:10:33,424 --> 00:10:36,886
+For resiliency, regions are comprised of availability zones
+
+259
+00:10:36,886 --> 00:10:39,472
+which are data centers geographically close to one another
+
+260
+00:10:39,472 --> 00:10:42,683
+that have been designed to have no single point of failure.
+
+261
+00:10:42,683 --> 00:10:45,353
+Azure services such as data and compute
+
+262
+00:10:45,353 --> 00:10:49,023
+contain built in resiliency orchestration services.
+
+263
+00:10:49,023 --> 00:10:50,816
+Microsoft is also doing our part
+
+264
+00:10:50,816 --> 00:10:52,985
+to build a sustainable future.
+
+265
+00:10:52,985 --> 00:10:56,572
+We are making a commitment to be carbon negative by 2030
+
+266
+00:10:56,572 --> 00:11:00,284
+and to move our historical impact by 2050.
+
+267
+00:11:00,284 --> 00:11:02,453
+Microsoft's progress benefits you
+
+268
+00:11:02,453 --> 00:11:06,123
+because we emit 98% less CO2
+
+269
+00:11:06,123 --> 00:11:10,711
+and use 93% less energy than on-premises data centers today.
+
+270
+00:11:10,711 --> 00:11:12,213
+This live event solution
+
+271
+00:11:12,213 --> 00:11:14,882
+further enables a virtualized production team
+
+272
+00:11:14,882 --> 00:11:17,802
+to reduce their CO2 footprints.
+
+273
+00:11:17,802 --> 00:11:20,846
+Equally concerning are the security issues we are facing
+
+274
+00:11:20,846 --> 00:11:22,306
+from malicious actors,
+
+275
+00:11:22,306 --> 00:11:24,642
+whether they are nation states or individuals.
+
+276
+00:11:24,642 --> 00:11:28,145
+Microsoft's identity and access management platform,
+
+277
+00:11:28,145 --> 00:11:29,271
+Active Directory,
+
+278
+00:11:29,271 --> 00:11:32,483
+is a key component of an effective security policy.
+
+279
+00:11:32,483 --> 00:11:36,904
+And it's used by over 90% of Fortune 500 companies today.
+
+280
+00:11:36,904 --> 00:11:39,532
+with Active Directory, you will have single identity
+
+281
+00:11:39,532 --> 00:11:41,409
+spanning all of your applications,
+
+282
+00:11:41,409 --> 00:11:43,536
+including Evertz Bravo Studio,
+
+283
+00:11:43,536 --> 00:11:47,331
+MediaKind's Aquila and Lumen networks.
+
+284
+00:11:47,331 --> 00:11:49,583
+Further authorization can be hardened
+
+285
+00:11:49,583 --> 00:11:51,752
+with multifactor authentication.
+
+286
+00:11:51,752 --> 00:11:56,173
+AD works for applications both in the cloud and on premise,
+
+287
+00:11:56,173 --> 00:12:00,052
+enabling universal access to every application.
+
+288
+00:12:00,052 --> 00:12:02,096
+Microsoft's live event solution
+
+289
+00:12:02,096 --> 00:12:04,849
+offers four key benefits to producers.
+
+290
+00:12:04,849 --> 00:12:07,059
+First, this pre-integrated solution
+
+291
+00:12:07,059 --> 00:12:09,603
+provides a comprehensive set of capabilities
+
+292
+00:12:09,603 --> 00:12:12,440
+spanning the full camera to OTT workflow
+
+293
+00:12:12,440 --> 00:12:14,483
+removing operational complexities
+
+294
+00:12:14,483 --> 00:12:17,528
+and enabling you to focus on being creative.
+
+295
+00:12:17,528 --> 00:12:20,322
+Second, turnkey operations are enabled
+
+296
+00:12:20,322 --> 00:12:23,492
+by combining Evertz, MediaKind, Lumen
+
+297
+00:12:23,492 --> 00:12:26,954
+and Microsoft's highly scalable, low latency,
+
+298
+00:12:26,954 --> 00:12:30,583
+broadcast ready and globally accessible capabilities
+
+299
+00:12:30,583 --> 00:12:32,752
+in a convenient pay as you go model.
+
+300
+00:12:33,586 --> 00:12:37,131
+Third, this solution delivers simplified provisioning
+
+301
+00:12:37,131 --> 00:12:39,258
+to enable faster time to value
+
+302
+00:12:39,258 --> 00:12:40,885
+and is offered in both self support
+
+303
+00:12:40,885 --> 00:12:43,012
+and managed service models.
+
+304
+00:12:43,012 --> 00:12:45,264
+Lastly, the solution is secured
+
+305
+00:12:45,264 --> 00:12:48,225
+using Microsoft's identity management platform
+
+306
+00:12:48,225 --> 00:12:49,852
+to support a single identity
+
+307
+00:12:49,852 --> 00:12:52,313
+across each of the applications.
+
+308
+00:12:52,313 --> 00:12:54,648
+Further multi factor authentication
+
+309
+00:12:54,648 --> 00:12:57,693
+helps safeguard access to data and applications
+
+310
+00:12:57,693 --> 00:13:01,280
+while meeting user demand for a simple sign in process.
+
+311
+00:13:02,448 --> 00:13:05,409
+Microsoft has set ambitious sustainability goals
+
+312
+00:13:05,409 --> 00:13:07,495
+and has been focused on both emissions
+
+313
+00:13:07,495 --> 00:13:09,747
+and natural resource usage.
+
+314
+00:13:09,747 --> 00:13:11,332
+Our leadership in these areas
+
+315
+00:13:11,332 --> 00:13:14,043
+translates into our customers reaping benefits
+
+316
+00:13:14,043 --> 00:13:15,753
+when they use Microsoft Cloud.
+
+317
+00:13:17,379 --> 00:13:20,132
+This concludes our live event from the racetrack today.

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <metadata>
+      <ttm:title>MS_Live Events Demo_Final.ttml</ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="basic" tts:textAlign="center" />
+    </styling>
+  </head>
+  <body style="basic">
+    <div>
+      <p begin="00:00:05.338" end="00:00:07.716">- Hi, I'm Kelly with Microsoft.</p>
+      <p begin="00:00:07.716" end="00:00:09.509">And today we are broadcasting live</p>
+      <p begin="00:00:09.509" end="00:00:11.678">from the United Kingdom's RC Racetrack</p>
+      <p begin="00:00:11.678" end="00:00:13.596">to our global audience.</p>
+      <p begin="00:00:13.596" end="00:00:16.891">Creating compelling live<br />events may appear simple</p>
+      <p begin="00:00:16.891" end="00:00:18.810">but production teams know all too well</p>
+      <p begin="00:00:18.810" end="00:00:21.980">the complexities in<br />delivering these experiences.</p>
+      <p begin="00:00:21.980" end="00:00:24.441">Integrating and operating<br />technical systems,</p>
+      <p begin="00:00:24.441" end="00:00:26.985">applications, networks,<br />and onsite personnel</p>
+      <p begin="00:00:26.985" end="00:00:30.321">can be daunting as well as<br />costly and time consuming.</p>
+      <p begin="00:00:30.321" end="00:00:32.699">Microsoft's digital experience solution</p>
+      <p begin="00:00:32.699" end="00:00:34.993">helps to simplify the<br />delivery of live events</p>
+      <p begin="00:00:34.993" end="00:00:36.745">by removing these complexities</p>
+      <p begin="00:00:36.745" end="00:00:39.914">while also reducing<br />required onsite personnel.</p>
+      <p begin="00:00:39.914" end="00:00:42.834">Microsoft has partnered with<br />industry leading vendors,</p>
+      <p begin="00:00:42.834" end="00:00:45.503">Evertz, MediaKind and Lumen</p>
+      <p begin="00:00:45.503" end="00:00:48.465">to provide a pre-integrated<br />global solution</p>
+      <p begin="00:00:48.465" end="00:00:51.301">that scales for events of any size.</p>
+      <p begin="00:00:51.301" end="00:00:54.429">The live events process<br />consists of five phases.</p>
+      <p begin="00:00:54.429" end="00:00:59.267">Ingest, produce, prepare,<br />distribute, and experience.</p>
+      <p begin="00:00:59.267" end="00:01:00.935">These phases span the workflow</p>
+      <p begin="00:01:00.935" end="00:01:02.771">from the point of media acquisition</p>
+      <p begin="00:01:02.771" end="00:01:06.149">to the in consumer experience<br />on a consumer device.</p>
+      <p begin="00:01:06.149" end="00:01:07.984">Each partner plays an important role</p>
+      <p begin="00:01:07.984" end="00:01:10.236">in delivering the live event.</p>
+      <p begin="00:01:10.236" end="00:01:13.073">This solution also spans<br />multiple locations,</p>
+      <p begin="00:01:13.073" end="00:01:15.075">both geographical and virtual,</p>
+      <p begin="00:01:15.075" end="00:01:17.869">from the racetrack to<br />Microsoft's Azure cloud,</p>
+      <p begin="00:01:17.869" end="00:01:19.829">to the consumer's device.</p>
+      <p begin="00:01:19.829" end="00:01:21.790">The workflow commences with MediaKind</p>
+      <p begin="00:01:21.790" end="00:01:25.376">acquiring and encoding media<br />from the event location.</p>
+      <p begin="00:01:25.376" end="00:01:26.628">The media is then delivered</p>
+      <p begin="00:01:26.628" end="00:01:28.338">across a Lumen contribution network</p>
+      <p begin="00:01:28.338" end="00:01:31.800">to Evertz's Bravo studio running in Azure.</p>
+      <p begin="00:01:31.800" end="00:01:33.968">From there, the raw<br />feeds are mixed together</p>
+      <p begin="00:01:33.968" end="00:01:35.470">and the produced output streams</p>
+      <p begin="00:01:35.470" end="00:01:38.098">are pushed to MediaKind's Aquila platform,</p>
+      <p begin="00:01:38.098" end="00:01:39.849">where they are processed and prepared</p>
+      <p begin="00:01:39.849" end="00:01:41.226">for consumer consumption.</p>
+      <p begin="00:01:42.185" end="00:01:44.687">The prepared streams are<br />subsequently delivered</p>
+      <p begin="00:01:44.687" end="00:01:46.856">across Lumens content delivery network</p>
+      <p begin="00:01:46.856" end="00:01:49.067">to the consumer device of choice.</p>
+      <p begin="00:01:49.067" end="00:01:50.485">Let's break the solution down,</p>
+      <p begin="00:01:50.485" end="00:01:51.569">beginning with Evertz.</p>
+      <p begin="00:01:52.570" end="00:01:55.156">Evertz Bravo Studio is a cloud first</p>
+      <p begin="00:01:55.156" end="00:01:56.574">virtual production platform</p>
+      <p begin="00:01:56.574" end="00:01:59.369">serving as a production<br />studio for our live events.</p>
+      <p begin="00:01:59.369" end="00:02:00.787">Residing in the Azure cloud,</p>
+      <p begin="00:02:00.787" end="00:02:02.831">Bravo Studio is a collection of resources</p>
+      <p begin="00:02:02.831" end="00:02:05.625">you can find in traditional<br />production workflows.</p>
+      <p begin="00:02:05.625" end="00:02:07.502">Its simple, intuitive interface</p>
+      <p begin="00:02:07.502" end="00:02:11.631">can be used by any production<br />to collaborate from anywhere.</p>
+      <p begin="00:02:11.631" end="00:02:13.925">Bravo Studios mixes together raw feeds</p>
+      <p begin="00:02:13.925" end="00:02:17.011">as well as additional content<br />to create a produced stream</p>
+      <p begin="00:02:17.011" end="00:02:18.304">for the intended audience.</p>
+      <p begin="00:02:19.180" end="00:02:22.475">Let's get back to the track<br />and see Bravo Studio in action.</p>
+      <p begin="00:02:22.475" end="00:02:24.811">We have six sources of raw media</p>
+      <p begin="00:02:24.811" end="00:02:27.814">and the output for the<br />produced stream displayed.</p>
+      <p begin="00:02:27.814" end="00:02:31.276">The sources are comprised of<br />four camera feeds at the track,</p>
+      <p begin="00:02:31.276" end="00:02:34.320">our announcer, who is offsite<br />using Microsoft Teams,</p>
+      <p begin="00:02:34.320" end="00:02:36.114">and a graphics club.</p>
+      <p begin="00:02:36.114" end="00:02:38.324">Through this interface,<br />we can select any source,</p>
+      <p begin="00:02:38.324" end="00:02:40.201">preview it, take a transition</p>
+      <p begin="00:02:40.201" end="00:02:42.203">and output the result to air.</p>
+      <p begin="00:02:42.203" end="00:02:44.664">Watch as we easily switch<br />between the different angles</p>
+      <p begin="00:02:44.664" end="00:02:45.540">at the track.</p>
+      <p begin="00:02:46.499" end="00:02:48.918">We can also switch<br />audio and overlays here.</p>
+      <p begin="00:02:48.918" end="00:02:50.753">We overlay our announcers audio</p>
+      <p begin="00:02:50.753" end="00:02:54.507">onto the races video feeds<br />to deliver the commentary.</p>
+      <p begin="00:02:54.507" end="00:02:56.426">Audio of course requires the ability</p>
+      <p begin="00:02:56.426" end="00:02:58.761">to manipulate the audio levels.</p>
+      <p begin="00:02:58.761" end="00:03:01.014">Here have an audio mixer which allows us</p>
+      <p begin="00:03:01.014" end="00:03:02.807">to alter the announcer's voice</p>
+      <p begin="00:03:02.807" end="00:03:04.684">as well as audio coming from the track</p>
+      <p begin="00:03:04.684" end="00:03:07.812">to create a pleasing<br />experience for the viewer.</p>
+      <p begin="00:03:07.812" end="00:03:08.813">With Bravo Studio,</p>
+      <p begin="00:03:08.813" end="00:03:11.441">we can spruce up our<br />production with graphics.</p>
+      <p begin="00:03:11.441" end="00:03:12.275">In this case,</p>
+      <p begin="00:03:12.275" end="00:03:15.153">we can use a transition<br />to return to the action.</p>
+      <p begin="00:03:15.153" end="00:03:16.946">Bravo studio uses co-pilots</p>
+      <p begin="00:03:16.946" end="00:03:19.908">to simplify the production<br />workflow for the operators.</p>
+      <p begin="00:03:19.908" end="00:03:23.453">We have created a storyboard<br />comprised of three components,</p>
+      <p begin="00:03:23.453" end="00:03:26.581">the graphic, transition, and<br />ultimately the camera angle</p>
+      <p begin="00:03:26.581" end="00:03:28.875">we wish to use upon<br />completion of the segment</p>
+      <p begin="00:03:28.875" end="00:03:30.418">in the rundown.</p>
+      <p begin="00:03:30.418" end="00:03:33.129">Let's take this to air and<br />we'll see the graphics countdown</p>
+      <p begin="00:03:33.129" end="00:03:35.715">followed by the transition<br />and the live camera feed.</p>
+      <p begin="00:03:36.716" end="00:03:37.800">In this demonstration,</p>
+      <p begin="00:03:37.800" end="00:03:39.385">we've shown several of Bravo Studio's</p>
+      <p begin="00:03:39.385" end="00:03:40.637">virtual production capabilities</p>
+      <p begin="00:03:40.637" end="00:03:44.140">that result in a stream<br />ready for distribution.</p>
+      <p begin="00:03:44.140" end="00:03:46.643">This stream can be sent<br />either to MediaKind</p>
+      <p begin="00:03:46.643" end="00:03:49.771">for distribution to our consumer's<br />favorite digital device,</p>
+      <p begin="00:03:49.771" end="00:03:51.856">or to a Microsoft Teams live event</p>
+      <p begin="00:03:51.856" end="00:03:53.983">where you may want to<br />support a watch party</p>
+      <p begin="00:03:53.983" end="00:03:57.028">or include it in a<br />meeting or presentation.</p>
+      <p begin="00:03:57.028" end="00:04:00.573">MediaKind's Aquila is a cloud<br />native broadcast quality</p>
+      <p begin="00:04:00.573" end="00:04:03.576">OTT streaming as a service platform.</p>
+      <p begin="00:04:03.576" end="00:04:06.454">It provides content<br />processing, streaming services,</p>
+      <p begin="00:04:06.454" end="00:04:09.040">and enables media monetization.</p>
+      <p begin="00:04:09.040" end="00:04:12.335">This robust service is built<br />on Microsoft's Azure cloud</p>
+      <p begin="00:04:12.335" end="00:04:15.088">and simplifies the<br />configuration and integration</p>
+      <p begin="00:04:15.088" end="00:04:17.590">associated with media<br />processing and streaming.</p>
+      <p begin="00:04:18.466" end="00:04:21.636">It also dynamically allocates<br />and scales resources</p>
+      <p begin="00:04:21.636" end="00:04:23.554">depending on the workload,</p>
+      <p begin="00:04:23.554" end="00:04:27.058">allowing for cost optimizations<br />across both Aquila software</p>
+      <p begin="00:04:27.058" end="00:04:29.143">and the infrastructure it resides within.</p>
+      <p begin="00:04:30.228" end="00:04:32.647">Aquila can be deployed<br />in any Azure region,</p>
+      <p begin="00:04:32.647" end="00:04:36.025">providing the services you<br />need where you need them.</p>
+      <p begin="00:04:36.025" end="00:04:39.195">Lastly, MediaKind's technology<br />can reduce network bandwidth,</p>
+      <p begin="00:04:39.195" end="00:04:43.116">player latency, and content<br />delivery network file caching,</p>
+      <p begin="00:04:43.116" end="00:04:45.451">thereby improving the<br />consumer's experience</p>
+      <p begin="00:04:45.451" end="00:04:47.412">and lowering your operating cost.</p>
+      <p begin="00:04:48.579" end="00:04:50.623">Let's use Aquila to create a channel</p>
+      <p begin="00:04:50.623" end="00:04:52.166">for our racetrack event.</p>
+      <p begin="00:04:52.166" end="00:04:53.501">Starting with a homepage,</p>
+      <p begin="00:04:53.501" end="00:04:55.253">we see a list of the streaming channels</p>
+      <p begin="00:04:55.253" end="00:04:58.673">representing our racetrack<br />camera angles already running.</p>
+      <p begin="00:04:58.673" end="00:05:01.509">The green check mark indicates<br />the channel is running</p>
+      <p begin="00:05:01.509" end="00:05:03.636">and there are no alarms.</p>
+      <p begin="00:05:03.636" end="00:05:05.847">For each channel, you<br />can see the templates,</p>
+      <p begin="00:05:05.847" end="00:05:08.808">source, and Azure region being used.</p>
+      <p begin="00:05:08.808" end="00:05:10.893">To create our produced stream,</p>
+      <p begin="00:05:10.893" end="00:05:13.938">we must first create a<br />source and then a channel.</p>
+      <p begin="00:05:13.938" end="00:05:15.231">From the source screen,</p>
+      <p begin="00:05:15.231" end="00:05:18.693">we define a name, input<br />mode, and Azure region</p>
+      <p begin="00:05:18.693" end="00:05:20.236">where the source will reside,</p>
+      <p begin="00:05:20.236" end="00:05:22.405">and then click add new.</p>
+      <p begin="00:05:22.405" end="00:05:23.698">Once the source is created,</p>
+      <p begin="00:05:23.698" end="00:05:26.617">the IP address and port<br />information are available.</p>
+      <p begin="00:05:26.617" end="00:05:28.619">These will be used by Bravo Studio</p>
+      <p begin="00:05:28.619" end="00:05:30.246">to send the produced stream</p>
+      <p begin="00:05:30.246" end="00:05:33.124">into the appropriate MediaKind source.</p>
+      <p begin="00:05:33.124" end="00:05:35.585">Next, let's create a channel.</p>
+      <p begin="00:05:35.585" end="00:05:36.919">From the create channel screen,</p>
+      <p begin="00:05:36.919" end="00:05:38.546">we define a new channel name</p>
+      <p begin="00:05:38.546" end="00:05:40.715">and select the source we just created.</p>
+      <p begin="00:05:40.715" end="00:05:42.300">We then select a template</p>
+      <p begin="00:05:42.300" end="00:05:45.678">from the desired preset<br />channel configuration.</p>
+      <p begin="00:05:45.678" end="00:05:48.681">In this case, we opt<br />for a standard template.</p>
+      <p begin="00:05:48.681" end="00:05:51.100">Templates make it easy to<br />spin up multiple channels</p>
+      <p begin="00:05:51.100" end="00:05:52.435">with the same configuration</p>
+      <p begin="00:05:52.435" end="00:05:55.146">by predefining the channel's attributes.</p>
+      <p begin="00:05:55.146" end="00:05:57.690">A default set of templates is included</p>
+      <p begin="00:05:57.690" end="00:05:59.192">and additional customized templates</p>
+      <p begin="00:05:59.192" end="00:06:01.152">can be easily added by the customer.</p>
+      <p begin="00:06:02.362" end="00:06:03.946">Although we've created our channel,</p>
+      <p begin="00:06:03.946" end="00:06:05.031">nothing has been provisioned</p>
+      <p begin="00:06:05.031" end="00:06:07.408">within the Azure environment yet.</p>
+      <p begin="00:06:07.408" end="00:06:08.534">To provision the channel,</p>
+      <p begin="00:06:08.534" end="00:06:12.038">the activate or play button is selected,</p>
+      <p begin="00:06:12.038" end="00:06:14.874">and the necessary services<br />are deployed into Azure</p>
+      <p begin="00:06:14.874" end="00:06:17.418">where they are configured<br />based on our template.</p>
+      <p begin="00:06:17.418" end="00:06:19.754">The entire process is fully automated,</p>
+      <p begin="00:06:19.754" end="00:06:23.132">and once complete the URLs for<br />the adaptive bit rate streams</p>
+      <p begin="00:06:23.132" end="00:06:24.425">are available.</p>
+      <p begin="00:06:24.425" end="00:06:27.553">Here we see our channel<br />stream and corresponding URL.</p>
+      <p begin="00:06:29.097" end="00:06:32.809">Aquila also supports dynamic<br />ad insertion and blackouts.</p>
+      <p begin="00:06:32.809" end="00:06:35.311">Let's demonstrate this<br />manually using this view</p>
+      <p begin="00:06:35.311" end="00:06:38.356">where we see multiple streams<br />of the produced content.</p>
+      <p begin="00:06:38.356" end="00:06:40.358">The largest window in the top left corner</p>
+      <p begin="00:06:40.358" end="00:06:42.819">is showing the video being<br />pulled from the origin,</p>
+      <p begin="00:06:42.819" end="00:06:44.737">bypassing the personalization service</p>
+      <p begin="00:06:44.737" end="00:06:47.490">that's used for ad<br />insertion and blackouts.</p>
+      <p begin="00:06:47.490" end="00:06:49.158">The six streams on the bottom</p>
+      <p begin="00:06:49.158" end="00:06:51.911">are all coming from the<br />personalization service,</p>
+      <p begin="00:06:51.911" end="00:06:54.372">each representing an audience<br />that is being targeted</p>
+      <p begin="00:06:54.372" end="00:06:58.418">or blacked out based on<br />geographic region and interest.</p>
+      <p begin="00:06:58.418" end="00:07:00.086">By clicking the ad button,</p>
+      <p begin="00:07:00.086" end="00:07:02.755">we instruct the platform<br />to insert an ad signal</p>
+      <p begin="00:07:02.755" end="00:07:04.799">into the stream in real time,</p>
+      <p begin="00:07:04.799" end="00:07:06.717">indicating the start of an ad break</p>
+      <p begin="00:07:06.717" end="00:07:09.220">with a duration of 10 seconds.</p>
+      <p begin="00:07:09.220" end="00:07:11.764">Each audience will receive a different ad</p>
+      <p begin="00:07:11.764" end="00:07:14.267">determined by the ad decisioning server</p>
+      <p begin="00:07:14.267" end="00:07:16.727">based on their location and interest.</p>
+      <p begin="00:07:16.727" end="00:07:18.938">Some content licensing<br />will require blackouts</p>
+      <p begin="00:07:18.938" end="00:07:21.274">to be enforced for a<br />portion of the audience.</p>
+      <p begin="00:07:21.274" end="00:07:23.818">In our case, it's based on geography.</p>
+      <p begin="00:07:23.818" end="00:07:25.069">Clicking on the blackout button</p>
+      <p begin="00:07:25.069" end="00:07:27.822">instruct the platform to<br />insert a different signal</p>
+      <p begin="00:07:27.822" end="00:07:28.948">into the stream,</p>
+      <p begin="00:07:28.948" end="00:07:31.576">indicating the start of the<br />program to be blacked out.</p>
+      <p begin="00:07:31.576" end="00:07:32.910">For a demonstration,</p>
+      <p begin="00:07:32.910" end="00:07:35.204">our blackout has a duration of 10 seconds</p>
+      <p begin="00:07:35.204" end="00:07:37.707">and as being applied to the<br />Florida zone one region.</p>
+      <p begin="00:07:37.707" end="00:07:40.710">So all viewers in that region<br />will get the same slate</p>
+      <p begin="00:07:40.710" end="00:07:42.962">indicating their region is blacked out.</p>
+      <p begin="00:07:42.962" end="00:07:44.046">The rest of our audience</p>
+      <p begin="00:07:44.046" end="00:07:46.340">will continue to receive<br />our racetrack event.</p>
+      <p begin="00:07:47.758" end="00:07:50.970">We now have a produced<br />stream ready for distribution</p>
+      <p begin="00:07:50.970" end="00:07:52.388">across a global audience</p>
+      <p begin="00:07:52.388" end="00:07:54.682">with personalized ads inserted</p>
+      <p begin="00:07:54.682" end="00:07:57.310">and geographic blackouts enforced.</p>
+      <p begin="00:07:57.310" end="00:07:58.728">- As we mentioned earlier,</p>
+      <p begin="00:07:58.728" end="00:08:00.813">this is a a geographically<br />dispersed production</p>
+      <p begin="00:08:00.813" end="00:08:04.775">that includes an event location,<br />Microsoft's Azure cloud,</p>
+      <p begin="00:08:04.775" end="00:08:07.153">and audience members around the globe.</p>
+      <p begin="00:08:07.153" end="00:08:10.281">Broadcasts of this type<br />require low latency networks</p>
+      <p begin="00:08:10.281" end="00:08:13.784">to deliver the signal across<br />many discreet locations.</p>
+      <p begin="00:08:13.784" end="00:08:14.827">For our car race,</p>
+      <p begin="00:08:14.827" end="00:08:17.413">Lumen provides the signal<br />acquisition network Vyvx</p>
+      <p begin="00:08:17.413" end="00:08:19.499">for contribution from the event location</p>
+      <p begin="00:08:19.499" end="00:08:21.292">to Microsoft's Azure cloud,</p>
+      <p begin="00:08:21.292" end="00:08:23.085">as well as the content delivery network</p>
+      <p begin="00:08:23.085" end="00:08:25.630">from Microsoft's cloud to the audience.</p>
+      <p begin="00:08:25.630" end="00:08:27.173">The network is designed to deliver</p>
+      <p begin="00:08:27.173" end="00:08:29.467">reliable low latency connectivity</p>
+      <p begin="00:08:29.467" end="00:08:31.677">to help ensure the<br />timely delivery of media</p>
+      <p begin="00:08:31.677" end="00:08:34.430">across the camera to consumption workflow.</p>
+      <p begin="00:08:35.598" end="00:08:38.851">Lumen's Vyvx Venue Net<br />is installed on premises</p>
+      <p begin="00:08:38.851" end="00:08:42.230">at over 240 stadiums<br />and event venues today.</p>
+      <p begin="00:08:42.230" end="00:08:44.690">It includes dedicated encoding equipment</p>
+      <p begin="00:08:44.690" end="00:08:46.943">and managed video network services</p>
+      <p begin="00:08:46.943" end="00:08:50.279">with high capacity fiber<br />connections to the Lumen backbone.</p>
+      <p begin="00:08:50.279" end="00:08:54.033">Vyvx offers white glove<br />fully managed services</p>
+      <p begin="00:08:54.033" end="00:08:55.993">for high profile events worldwide,</p>
+      <p begin="00:08:55.993" end="00:08:58.246">with zero tolerance for failure.</p>
+      <p begin="00:08:58.246" end="00:09:00.915">The service includes 24/7 booking,</p>
+      <p begin="00:09:00.915" end="00:09:02.625">a customer care center,</p>
+      <p begin="00:09:02.625" end="00:09:03.834">and self-service portals</p>
+      <p begin="00:09:03.834" end="00:09:07.672">to support video delivery<br />anytime and virtually anywhere.</p>
+      <p begin="00:09:08.589" end="00:09:11.509">Lumen's content distribution<br />flow begins in the Azure cloud</p>
+      <p begin="00:09:11.509" end="00:09:12.426">where the produced streams</p>
+      <p begin="00:09:12.426" end="00:09:15.137">can be distributed to<br />multiple types of outlets.</p>
+      <p begin="00:09:15.137" end="00:09:16.973">Distribution to television outlets</p>
+      <p begin="00:09:16.973" end="00:09:19.058">and multi value programming distributors</p>
+      <p begin="00:09:19.058" end="00:09:21.852">typically leverages either<br />the Vyvx fiber network</p>
+      <p begin="00:09:21.852" end="00:09:24.105">or teleport services</p>
+      <p begin="00:09:24.105" end="00:09:25.731">which are used to reach outlets</p>
+      <p begin="00:09:25.731" end="00:09:28.234">not on the Vyvx fiber network.</p>
+      <p begin="00:09:28.234" end="00:09:30.278">Alternatively, the Lumen CDN</p>
+      <p begin="00:09:30.278" end="00:09:33.406">provides OTT streaming<br />capabilities to online viewers</p>
+      <p begin="00:09:33.406" end="00:09:36.367">leveraging Lumen's global<br />IP network backbone</p>
+      <p begin="00:09:36.367" end="00:09:38.786">and strong ISP peering relationships</p>
+      <p begin="00:09:38.786" end="00:09:41.956">to deliver best in class<br />streaming experiences.</p>
+      <p begin="00:09:41.956" end="00:09:43.916">One of the largest CDNs in the world,</p>
+      <p begin="00:09:43.916" end="00:09:45.668">the Lumen content delivery network,</p>
+      <p begin="00:09:45.668" end="00:09:50.131">is globally architect for high<br />availability and low latency.</p>
+      <p begin="00:09:50.131" end="00:09:51.549">Its security features include</p>
+      <p begin="00:09:51.549" end="00:09:53.509">encrypted delivery over the network</p>
+      <p begin="00:09:53.509" end="00:09:56.929">and active monitoring to<br />mitigate security threats.</p>
+      <p begin="00:09:56.929" end="00:09:59.849">Additionally, the Lumen<br />CDN can be augmented</p>
+      <p begin="00:09:59.849" end="00:10:01.767">with their peer assisted mesh delivery</p>
+      <p begin="00:10:01.767" end="00:10:03.644">to enhance quality of service,</p>
+      <p begin="00:10:03.644" end="00:10:04.729">increase reach,</p>
+      <p begin="00:10:04.729" end="00:10:07.648">and enable reliable<br />scaling for flash crowds</p>
+      <p begin="00:10:07.648" end="00:10:09.775">during high traffic events.</p>
+      <p begin="00:10:09.775" end="00:10:12.278">- Microsoft's Azure<br />cloud is the public cloud</p>
+      <p begin="00:10:12.278" end="00:10:15.656">providing the compute,<br />storage, networking and data</p>
+      <p begin="00:10:15.656" end="00:10:17.658">to power the solution.</p>
+      <p begin="00:10:17.658" end="00:10:20.911">Azure enables producers to<br />dynamically stand up their events</p>
+      <p begin="00:10:20.911" end="00:10:22.830">where, and when they need them.</p>
+      <p begin="00:10:22.830" end="00:10:24.915">It has the largest geographical footprint</p>
+      <p begin="00:10:24.915" end="00:10:26.876">of any cloud provider today,</p>
+      <p begin="00:10:26.876" end="00:10:30.171">with over 60 regions, 200 data centers,</p>
+      <p begin="00:10:30.171" end="00:10:33.424">and 4 million servers worldwide.</p>
+      <p begin="00:10:33.424" end="00:10:36.886">For resiliency, regions are<br />comprised of availability zones</p>
+      <p begin="00:10:36.886" end="00:10:39.472">which are data centers<br />geographically close to one another</p>
+      <p begin="00:10:39.472" end="00:10:42.683">that have been designed to have<br />no single point of failure.</p>
+      <p begin="00:10:42.683" end="00:10:45.353">Azure services such as data and compute</p>
+      <p begin="00:10:45.353" end="00:10:49.023">contain built in resiliency<br />orchestration services.</p>
+      <p begin="00:10:49.023" end="00:10:50.816">Microsoft is also doing our part</p>
+      <p begin="00:10:50.816" end="00:10:52.985">to build a sustainable future.</p>
+      <p begin="00:10:52.985" end="00:10:56.572">We are making a commitment<br />to be carbon negative by 2030</p>
+      <p begin="00:10:56.572" end="00:11:00.284">and to move our historical impact by 2050.</p>
+      <p begin="00:11:00.284" end="00:11:02.453">Microsoft's progress benefits you</p>
+      <p begin="00:11:02.453" end="00:11:06.123">because we emit 98% less CO2</p>
+      <p begin="00:11:06.123" end="00:11:10.711">and use 93% less energy than<br />on-premises data centers today.</p>
+      <p begin="00:11:10.711" end="00:11:12.213">This live event solution</p>
+      <p begin="00:11:12.213" end="00:11:14.882">further enables a<br />virtualized production team</p>
+      <p begin="00:11:14.882" end="00:11:17.802">to reduce their CO2 footprints.</p>
+      <p begin="00:11:17.802" end="00:11:20.846">Equally concerning are the<br />security issues we are facing</p>
+      <p begin="00:11:20.846" end="00:11:22.306">from malicious actors,</p>
+      <p begin="00:11:22.306" end="00:11:24.642">whether they are nation<br />states or individuals.</p>
+      <p begin="00:11:24.642" end="00:11:28.145">Microsoft's identity and<br />access management platform,</p>
+      <p begin="00:11:28.145" end="00:11:29.271">Active Directory,</p>
+      <p begin="00:11:29.271" end="00:11:32.483">is a key component of an<br />effective security policy.</p>
+      <p begin="00:11:32.483" end="00:11:36.904">And it's used by over 90% of<br />Fortune 500 companies today.</p>
+      <p begin="00:11:36.904" end="00:11:39.532">with Active Directory, you<br />will have single identity</p>
+      <p begin="00:11:39.532" end="00:11:41.409">spanning all of your applications,</p>
+      <p begin="00:11:41.409" end="00:11:43.536">including Evertz Bravo Studio,</p>
+      <p begin="00:11:43.536" end="00:11:47.331">MediaKind's Aquila and Lumen networks.</p>
+      <p begin="00:11:47.331" end="00:11:49.583">Further authorization can be hardened</p>
+      <p begin="00:11:49.583" end="00:11:51.752">with multifactor authentication.</p>
+      <p begin="00:11:51.752" end="00:11:56.173">AD works for applications both<br />in the cloud and on premise,</p>
+      <p begin="00:11:56.173" end="00:12:00.052">enabling universal access<br />to every application.</p>
+      <p begin="00:12:00.052" end="00:12:02.096">Microsoft's live event solution</p>
+      <p begin="00:12:02.096" end="00:12:04.849">offers four key benefits to producers.</p>
+      <p begin="00:12:04.849" end="00:12:07.059">First, this pre-integrated solution</p>
+      <p begin="00:12:07.059" end="00:12:09.603">provides a comprehensive<br />set of capabilities</p>
+      <p begin="00:12:09.603" end="00:12:12.440">spanning the full camera to OTT workflow</p>
+      <p begin="00:12:12.440" end="00:12:14.483">removing operational complexities</p>
+      <p begin="00:12:14.483" end="00:12:17.528">and enabling you to<br />focus on being creative.</p>
+      <p begin="00:12:17.528" end="00:12:20.322">Second, turnkey operations are enabled</p>
+      <p begin="00:12:20.322" end="00:12:23.492">by combining Evertz, MediaKind, Lumen</p>
+      <p begin="00:12:23.492" end="00:12:26.954">and Microsoft's highly<br />scalable, low latency,</p>
+      <p begin="00:12:26.954" end="00:12:30.583">broadcast ready and globally<br />accessible capabilities</p>
+      <p begin="00:12:30.583" end="00:12:32.752">in a convenient pay as you go model.</p>
+      <p begin="00:12:33.586" end="00:12:37.131">Third, this solution delivers<br />simplified provisioning</p>
+      <p begin="00:12:37.131" end="00:12:39.258">to enable faster time to value</p>
+      <p begin="00:12:39.258" end="00:12:40.885">and is offered in both self support</p>
+      <p begin="00:12:40.885" end="00:12:43.012">and managed service models.</p>
+      <p begin="00:12:43.012" end="00:12:45.264">Lastly, the solution is secured</p>
+      <p begin="00:12:45.264" end="00:12:48.225">using Microsoft's identity<br />management platform</p>
+      <p begin="00:12:48.225" end="00:12:49.852">to support a single identity</p>
+      <p begin="00:12:49.852" end="00:12:52.313">across each of the applications.</p>
+      <p begin="00:12:52.313" end="00:12:54.648">Further multi factor authentication</p>
+      <p begin="00:12:54.648" end="00:12:57.693">helps safeguard access<br />to data and applications</p>
+      <p begin="00:12:57.693" end="00:13:01.280">while meeting user demand<br />for a simple sign in process.</p>
+      <p begin="00:13:02.448" end="00:13:05.409">Microsoft has set ambitious<br />sustainability goals</p>
+      <p begin="00:13:05.409" end="00:13:07.495">and has been focused on both emissions</p>
+      <p begin="00:13:07.495" end="00:13:09.747">and natural resource usage.</p>
+      <p begin="00:13:09.747" end="00:13:11.332">Our leadership in these areas</p>
+      <p begin="00:13:11.332" end="00:13:14.043">translates into our<br />customers reaping benefits</p>
+      <p begin="00:13:14.043" end="00:13:15.753">when they use Microsoft Cloud.</p>
+      <p begin="00:13:17.379" end="00:13:20.132">This concludes our live event<br />from the racetrack today.</p>
+    </div>
+  </body>
+</tt>
