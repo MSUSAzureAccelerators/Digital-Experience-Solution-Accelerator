@@ -2,9 +2,7 @@
 
 # Digital Experience Solution
 
-## About this repository
-
-Delivery of compelling digital experiences has become a key marketing strategy and a natural extension of live events. Complexity and costs are a barrier to entry for many however, and a lack of real-time data and audience insights for optimizing content can make it difficult to grow brand affinity and achieve real ROI.
+Delivery of compelling digital experiences has become a key marketing strategy and a natural extension of live events. Complexity and costs are a barrier to entry for many, and a lack of real-time data and audience insights for optimizing content can make it difficult to grow brand affinity and achieve real ROI.
 
 The Digital Experience Solution brings together proven technology from partners MediaKind, Evertz Microsystems, and Lumen in a scalable on-demand service that moves the entire live stream process offsite and into the cloud, enabling remote teams to work together in real-time.
 
