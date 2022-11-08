@@ -1,6 +1,6 @@
 ![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.png)
 
-# Digital Experience Solution
+# Digital Experience Solution Accelerator
 
 Delivery of compelling digital experiences has become a key marketing strategy and a natural extension of live events. Complexity and costs are a barrier to entry for many companies. Additionally, a lack of real-time data and audience insights for optimizing content can make it difficult to grow brand affinity and achieve real ROI.
 
