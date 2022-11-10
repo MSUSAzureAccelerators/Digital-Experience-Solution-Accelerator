@@ -8,19 +8,19 @@ The Digital Experience Solution brings together proven technology from partners 
 
 
 ## Challenges
-* Complex operations due to the need for multiple vendors, navigating onsite logistics, and health restrictions
-* High operating costs and up-front investments create barriers to entry and add pressure to deliver ROI
-* Limited data and analytics leave companies struggling to gain insights into consumer brand affinity
-* Security for content and data is critical to maintain, and breaches are inherent risks
-* Monetization tactics can be challenging to integrate and personalize, leading to poor experiences that erode trust in the brand
+* Complex operations due to the need for multiple vendors, navigating onsite logistics, and health restrictions.
+* High operating costs and up-front investments create barriers to entry and add pressure to deliver ROI.
+* Limited data and analytics leave companies struggling to gain insights into consumer brand affinity.
+* Security for content and data is critical to maintain, and breaches are inherent risks.
+* Monetization tactics can be challenging to integrate and personalize, leading to poor experiences that erode trust in the brand.
 
 ## Benefits
-* Simplify operations by eliminating the need to coordinate with multiple vendors
-* Reduce your carbon footprint with remote production teams and Microsoft cloud sustainability initiatives
-* Protect content and data with advanced security and privacy features from Microsoft
-* Reduce operating costs by enabling producers to work remotely
-* Create monetization opportunities and build your customer funnel with personalized ad experiences for users
-* Gain valuable, timely audience insights to increase customer engagement and retention
+* **Simplify operations** by eliminating the need to coordinate with multiple vendors.
+* **Reduce your carbon footprint** with remote production teams and Microsoft cloud sustainability initiatives.
+* Protect content and data with **advanced security and privacy features from Microsoft**.
+* **Reduce operating costs** by enabling producers to work remotely.
+* Create monetization opportunities and build your customer funnel with **personalized ad experiences** for users.
+* Gain valuable, timely audience insights to **increase customer engagement and retention**.
 
 
 ## Architecture 
